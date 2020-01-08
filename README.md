@@ -1,12 +1,15 @@
 # CSS Selectors Practice
 
- Date created 01/08/20
+*This assignment is practice for Book 1: Chapter 3 of NSS's course work. Link to the assignment: https://github.com/nashville-software-school/client-side-mastery/blob/master/book-1-the-novice/chapters/CSS_SELECTORS.md*
 
- Date modified: 01/08/20
+ Preview assignment here: https://trinity-css-selectors-practice.netlify.com/
 
+Date created 01/08/20
+
+Date modified: 01/08/20
 ***
 
-*This assignment is practice for Book 1: Chapter 3 of NSS's course work. Link to the assignment: https://github.com/nashville-software-school/client-side-mastery/blob/master/book-1-the-novice/chapters/CSS_SELECTORS.md*
+
 
 ## Directions for this assignment:
 
