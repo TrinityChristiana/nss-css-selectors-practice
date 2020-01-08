@@ -1,1 +1,28 @@
-# nss-css-selectors-practice
+# CSS Selectors Practice
+
+ Date created 01/08/20
+
+ Date modified: 01/08/20
+
+***
+
+*This assignment is practice for Book 1: Chapter 3 of NSS's course work. Link to the assignment: https://github.com/nashville-software-school/client-side-mastery/blob/master/book-1-the-novice/chapters/CSS_SELECTORS.md*
+
+## Directions for this assignment:
+
+1. The header element should have a 1px, goldenrod border.
+2. Convert the ul in the navigation element into a series of horizontal links with # as the href value, without bullets, and have some space between them horizontally.
+3. Ensure that the navigation is semantically marked as such (i.e. wrap it in the correct HTML tag).
+4. Any text in an element with class "disabled" should be colored grey, unless it is an attribute of an anchor tag. If it is an attribute of an anchor tag, it should be colored purple.
+5. Any text inside an element with a class of "active" should be colored yellow.
+6. Section elements should be contained within an article element.
+7. There are two missing closing tags in this document. Make sure you add them back in.
+8. Make the "I'm red" text colored red.
+9. Make the "I'm blue" text colored blue.
+10. The sibling h4 of the red element should have a background color of red.
+11. The sibling h4 of the blue element should have background color of blue.
+12. Any h4 that is a direct child of grandparent should have a 1px border with rounded corners.
+13. Elements with a class of promo should have bold text that is also colored gold.
+14. Without adding any other attributes to the input fields in the footer, write a CSS selector that makes any text input field have a height of 25px.
+
+*Note: You are not allowed to add id and class attributes to any component*
